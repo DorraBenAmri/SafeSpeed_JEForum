@@ -110,11 +110,11 @@ SafeSpeed_JEForum/
 │   └── speed_recommender/
 │
 ├── data/
-│   └── simulated_dataset.csv
+│   └── found_data_links.txt
 │
 └── docs/
-    ├── phase1_slides.pdf
-    └── architecture_diagram.png
+    ├── PrésentationduProjet_SafeSpeed.pdf
+
 ```
 
 ---
