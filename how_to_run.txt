@@ -1,0 +1,12 @@
+# 1) Créer et activer un venv (optionnel mais propre)
+python -m venv venv
+# Windows
+venv\Scripts\activate
+# Linux/macOS
+# source venv/bin/activate
+
+# 2) Installer les dépendances
+pip install -r requirements.txt
+
+# 3) Lancer le backend Flask
+python backend/app.py
