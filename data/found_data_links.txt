@@ -1,0 +1,15 @@
+# Data Sources for SafeSpeed
+
+1. Driver Fatigue / Vigilance:
+- Driver Drowsiness Dataset (D3S): https://github.com/bindujiit/Driver-Drowsiness-Dataset-D3S-  
+  Utilisé pour classifier la fatigue via la vision (yeux fermés, bâillements).
+
+2. Météo:
+- OpenWeather Historical Dataset: https://openweathermap.org/history  
+  Fournit pluie, vent, visibilité pour simuler les conditions routières.
+
+3. Dynamique véhicule:
+- Vehicle Energy Dataset (VED): https://github.com/gsoh/VED  
+  Logs OBD : vitesse, accélération, consommation, GPS — pour simuler la vitesse optimale.
+
+# Note: Pour le prototype, nous utilisons un mini-dataset simulé (sample.csv) pour entraîner un modèle basique.
