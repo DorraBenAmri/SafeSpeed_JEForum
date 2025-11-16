@@ -164,6 +164,10 @@ SafeSpeed_JEForum/
 ---
 
 # 8. Contact
-Équipe Code4Impact — SafeSpeed  
-Hack For Good 4.0 – INSAT x Lloyd Assurance
+Équipe Code4Impact — SafeSpeed :
+Dorra Ben El Amri Bettaieb: dorra.benelamribettaieb@esprit.tn
+Anas Nguira: anas.nguira@esprit.tn
+Louay Ben Amar: benamarlouay6@gmail.com
+Eya Fetni: eyafetni60@gmail.com
+
 
