@@ -136,4 +136,34 @@ SafeSpeed_JEForum/
 - Transparence et explicabilité des recommandations IA
 
 ---
+# 7. Roadmap — Alignée Hack For Good 4.0
+
+### Phase 1 — Idéation & Développement (EN COURS)
+- Définition du concept SafeSpeed  
+- Architecture préliminaire  
+- Interface prototype (Streamlit)  
+- Détection fatigue (prototype simple)  
+- Recommandation vitesse v0.1  
+- Mise en place du repo GitHub  
+- Vidéo de présentation 1–2 minutes  
+
+### Phase 2 — Accompagnement & Perfectionnement
+- Prototype IA plus stable  
+- Intégration complète Flask ↔ Streamlit  
+- Démo fonctionnelle  
+- Stratégie RSE avancée  
+- Présentation PPTX + pitch  
+
+### Phase 3 — Finalisation & Pitch Final
+- Prototype final complet  
+- Vidéo démo intégrée au PPTX  
+- BMC + stratégie marketing  
+- Pitch final devant jury et public  
+- Version stable du repo  
+
+---
+
+# 8. Contact
+Équipe Code4Impact — SafeSpeed  
+Hack For Good 4.0 – INSAT x Lloyd Assurance
 
