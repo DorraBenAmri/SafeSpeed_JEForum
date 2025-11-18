@@ -164,14 +164,16 @@ SafeSpeed_JEForum/
 ---
 
 # 8. Contact
-Équipe Code4Impact — SafeSpeed :
-Dorra Ben El Amri Bettaieb: 
-Anas Nguira: 
-Louay Ben Amar: 
-Eya Fetni: 
-dorra.benelamribettaieb@esprit.tn
-anas.nguira@esprit.tn
-benamarlouay6@gmail.com
-eyafetni60@gmail.com
+Équipe Code4Impact — SafeSpeed :  
+Dorra Ben El Amri Bettaieb  
+Anas Nguira  
+Eya Fetni  
+Louay Ben Amar  
+dorra.benelamribettaieb@esprit.tn  
+anas.nguira@esprit.tn  
+eyafetni60@gmail.com  
+benamarlouay6@gmail.com  
+
+
 
 
